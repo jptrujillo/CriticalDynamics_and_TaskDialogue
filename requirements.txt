@@ -1,0 +1,8 @@
+antropy
+numpy
+pandas
+pympi-ling
+scipy
+pickle
+#sentence_transformers
+#torch
